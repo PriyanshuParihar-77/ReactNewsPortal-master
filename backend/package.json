@@ -1,0 +1,11 @@
+{
+    "name": "mean-course",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3",
+        "request": "^2.81.0"
+    }
+}

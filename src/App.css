@@ -1,0 +1,179 @@
+.card {
+    border-radius: 5px;
+    width: 95%;
+    margin: 10px;
+    margin-top:20px;
+    transform: scale(1.01);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+/*Content*/
+
+.content {
+    /*padding: 0 18px;*/
+    display: flex;
+    overflow: hidden;
+    width: 100%;
+    padding: 0px 0px 5px 0px;
+}
+
+.card .content div {
+    width: 75%;
+}
+
+
+
+.card .content div p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 100%;
+    margin-top: 6px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    padding-right:20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3; /* number of lines to show */
+}
+
+.card .content div h4 {
+    margin-bottom: 0px;
+    margin-top: 13px;
+    margin-left: 0px;
+    font: italic bold 20px Arial, Helvetica, sans-serif;
+    
+}
+
+
+
+.card .content img{
+    object-fit: cover;
+    padding:17px;
+    width: 100%;
+}
+
+
+
+.card {
+    border-radius: 5px;
+    width: 90%;
+    margin: 0 auto;
+    margin-top:20px;
+    margin-bottom:20px;
+    transform: scale(1.01);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+/*Content*/
+
+.card .contentart {
+    /*padding: 0 18px;*/
+    display: block;
+    overflow: hidden;
+    width: 95%;
+    margin:10px auto;
+}
+
+.card .contentart p .collapseddiv{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 100%;
+    margin-top: 13px;
+    margin-bottom: 0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 6; /* number of lines to show */
+}
+
+.card .contentart p .expandeddiv{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 100%;
+    margin-top: 13px;
+    margin-bottom: 0px;
+}
+
+.card .contentart h4 {
+    margin-bottom: 0px;
+    margin-top: 13px;
+    margin-left: 0px;
+    font: italic bold 20px Arial, Helvetica, sans-serif;
+    
+}
+
+.card .contentrt img{
+    display: block;
+    width: 100%;
+    height:50%
+}
+
+
+
+.card2 {
+    border-radius: 5px;
+    text-align: center;
+    width: 18%;
+    transform: scale(1.01);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+
+.card2 a {
+    display: block;
+    color: #000000;
+    text-decoration: none
+}
+
+
+.card2 a:hover {
+    color: #000000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.navbar-light .navbar-nav .nav-link a{color:#7D8BA9}
+
+
+
+.navbar-light .navbar-nav .nav-link a:focus,.navbar-light .navbar-nav .nav-link a:hover{color:#fff}
+
+
+
+
+.seconddiv .card2 img, .thirddiv .card2 img, .fourthdiv .card2 img {
+    object-fit: cover; 
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+    width: 90%;
+    height:90%;
+}
+
+
+.seconddiv, .thirddiv, .fourthdiv{
+    width: 100%;
+    display: flex;
+}
+
+.fourthdiv{
+    width: 100%;
+    display: flex;
+    padding-right:20px;
+    margin-bottom:20px;
+}
+
+.card2 h4 {
+    font: italic bold 16px Arial, Helvetica, sans-serif;
+    padding-left:16.875px;
+    padding-right:16.875px;
+    text-align:left;
+    padding-top:20px;
+    overflow: hidden
+}
+
+.card2 a span {
+    text-align:left;
+}
+
+/*****************/

@@ -1,6 +1,5 @@
 **<h1>Overview</h1>**
 This responsive application allows users to search for News information based on the value selected from toggle(Guardian or New york Time). Detail description is provided using an interactive UI using React Bootstrap cards. On clicking individual card, user is redirected to detail article, where user can bookmark, share and comment on the article. Also, user can search for any news from the top search bar and the result will be in form of cards again. In the bookmarks tab all the favourites can be seen and deleted if needed.
-Link: http://shashankreact1.s3-website-us-east-1.amazonaws.com/
 
 **<h1>Technolgies Used</h1>**
 Node.js, Express, React, AJAX, JSON, APIs, HTML5, CSS, Amazon Web Services.
